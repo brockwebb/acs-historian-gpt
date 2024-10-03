@@ -1,8 +1,6 @@
 # ACS Historian GPT
 Easily ask questions and get answers about the history of the US Census Bureau's American Community Survey (ACS) 
 
-Welcome to the Census ACS Data Analyst GPT project! This OpenAI GPT was created in order to easily ask questions and get answers using Census ACS data.
-
 ## Disclaimer
 *PLEASE NOTE:* This *is not* a US Census Bureau Product! It is an experimental/independent community project. Feedback welcome
 
