@@ -6,7 +6,7 @@ Easily ask questions and get answers about the history of the US Census Bureau's
 
 ## Project Overview
 
-This project uses ChatGPT to become and interactive historian. It uses the [History of the American Community Survey](https://www2.census.gov/library/publications/2024/acs/history-of-the-acs.pdf), Published January 2024 as the source of truth.
+This project uses ChatGPT to become an interactive historian. It uses the [History of the American Community Survey](https://www2.census.gov/library/publications/2024/acs/history-of-the-acs.pdf), Published January 2024 as the source of truth.
 
 ## Purpose of this Repo
 
@@ -16,14 +16,14 @@ This project uses ChatGPT to become and interactive historian. It uses the [Hist
 ## Getting Started
 
 Go to the GPT and start using!
-- [ChatGPT Census American Community Historian](Add URL Later)
+- [ChatGPT Census American Community Historian](https://chatgpt.com/g/g-hQflg8L4X-american-community-survey-historian)
 
 ### Prerequisites
 - OpenAI Account 
 
 ### Use with caution!
-- For entertainment purposed only.
-- While based on an authorative source, due to the nature of Large Language Models, there can be some issues with output and accuracy.
+- For entertainment purposes only.
+- While based on an authoritative source, due to the nature of Large Language Models, there can be some issues with output and accuracy.
 
 ### Known Issues
 - As these are discovered, they will be documented here.
