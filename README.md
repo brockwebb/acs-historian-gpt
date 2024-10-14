@@ -17,6 +17,7 @@ This project uses ChatGPT to become an interactive historian. It uses the [Histo
 
 Go to the GPT and start using!
 - [ChatGPT Census American Community Historian](https://chatgpt.com/g/g-hQflg8L4X-american-community-survey-historian)
+- Alternatively, you could experiment with a [RAG-Agent workflow in Jupyter Notebook](https://github.com/brockwebb/acs-historian-gpt/blob/main/AgenticRAGWorkflow-ACSHistorian.ipynb) as a fun experiment to creating a vectorized store of the document and improving the responses with an Agentic Workflow.
 
 ### Prerequisites
 - OpenAI Account 
